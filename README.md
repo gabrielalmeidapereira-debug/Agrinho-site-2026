@@ -5,7 +5,7 @@
 
 Um site basedo no estilo retrô simulado diretamente no navegador ( Anos 90), e com estilo em pixel art desenvolvido para o **Projeto Agrinho 2026**.
 
-( **para uma melhor experiência certifique-se de colocar o site em tela cheia** ) 
+( **para uma melhor experiência, certifique-se de colocar o site em tela cheia** ) 
 
 ---
 
