@@ -67,10 +67,4 @@ O projeto foi construído utilizando tecnologias web puras (*Vanilla Architectur
 * **CSS3 Avançado:** Filtros de varredura CRT, animação de *flicker* (cintilação de monitor antigo) e efeito Matrix digital feito via folha de estilo e variáveis latentes.
 * **JavaScript (ES6):** Manipulação de DOM para o sistema de janelas arrastáveis (*Drag & Drop*), renderização física do jogo em `HTML5 Canvas` e um **Sintetizador de Áudio Retro** construído sob a API nativa `AudioContext` para emular bips de computadores antigos de forma dinâmica.
 
----
 
-## 🚀 Como Executar o Projeto
-
-1. Faça o clone deste repositório ou baixe o arquivo `index.html`.
-2. Certifique-se de ter o arquivo de áudio de boot na mesma pasta.
-3. Abra o arquivo `index.html` diretamente em qualquer navegador moderno.
